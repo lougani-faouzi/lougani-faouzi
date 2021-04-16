@@ -13,10 +13,6 @@
 - C,C++,JAVA,PHP,HTML5,CSS,XML,Python,
   JavaScript(Jquery),Bootstrap,Nodejs,
   ReactJs,.Net,VHDL,Aseba(Robotique).
-
- 📫 How to reach me: 
-- Personnal web site :https://faouzilougani.wixsite.com/monsite
-- Linkedin:https://www.linkedin.com/in/faouzi-lougani-96819b1a5/
  
 
 
