@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
   🌱 I’m currently learning :
 -  Master 1 High Performance Computing, Simulation (HPCS) at the University of Versailles-France (2020-2021)
   
