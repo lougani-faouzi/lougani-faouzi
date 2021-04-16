@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -  3rd degree in computer science at the University of Perpignan-France (2018-2020)
 -  3rd degree in information systems and software engineering at the University Bouira -Algeria (2015-2018)
 
- ⚡ languages and frameworks 
+ ⚡ languages ,frameworks 
 - C,C++,JAVA,PHP,HTML5,CSS,XML,Python,
   JavaScript(Jquery),Bootstrap,Nodejs,
   ReactJs,.Net,VHDL,Aseba(Robotique).
