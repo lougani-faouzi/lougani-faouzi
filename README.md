@@ -3,7 +3,7 @@
 
 
   🌱 I’m currently learning :
--  Master 2 High Performance Computing, Simulation (IHPS) at the University of Paris Saclay-France (2020-2021)
+-  Master 2 High Performance Computing, Simulation (IHPS) at the University of Paris Saclay-France (2021-2022)
   
   🌱 I was a student :
 -  Master 1 High Performance Computing, Simulation (HPCS) at the University of Versailles-France (2020-2021)
