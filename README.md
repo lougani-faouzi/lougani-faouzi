@@ -15,7 +15,7 @@
   JavaScript(Jquery),Bootstrap,Nodejs,OrgMode, Markdown,LaTeX
   ReactJs,.Net,VHDL,Aseba(Robotique).
 
-  🔭 working on:
+ 🔭 working on:
 - Profiling,optimisation
 - Benchmarking
 - Parallel programming
