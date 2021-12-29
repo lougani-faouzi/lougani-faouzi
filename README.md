@@ -11,10 +11,20 @@
 -  3rd degree in information systems and software engineering at the University Bouira -Algeria (2015-2018)
 
  ⚡ languages ,frameworks 
-- C,C++,JAVA,PHP,HTML5,CSS,XML,Python,
-  JavaScript(Jquery),Bootstrap,Nodejs,
+- C,C++,fortran,Python,JAVA,PHP,HTML5,CSS,XML,MPI,OpenMp,Pthread,CUDA,LLVM,Tiger,OpenAcc
+  JavaScript(Jquery),Bootstrap,Nodejs,OrgMode, Markdown,LaTeX
   ReactJs,.Net,VHDL,Aseba(Robotique).
- 
+
+  🔭 working on:
+- Profiling,optimisation
+- Benchmarking
+- Parallel programming
+- Vectorisation, scalability, cache blocking
+
+ ## Contact
+  - email: faouzi.lougani@ens.uvsq.fr
+  - linkedin: https://www.linkedin.com/in/faouzi-lougani-96819b1a5/
+  - website: https://faouzilougani.wixsite.com/monsite
 
 
 
