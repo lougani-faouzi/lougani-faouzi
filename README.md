@@ -3,7 +3,7 @@
 
 
   🌱 I’m currently  :
--  In Intership C++ Dev Engineer STEP data optimization at Dassault Systemes
+-  In Intership C++ Dev at Dassault Systemes
 -  learning Master 2 High Performance Computing, Simulation (IHPS) at the University of Paris Saclay-France (2021-2022)
   
   🌱 I was a student :
