@@ -12,7 +12,7 @@
 -  3rd degree in information systems and software engineering at the University Bouira -Algeria (2015-2018)
 
  ⚡ languages ,frameworks 
-- C,C++,fortran,Python,JAVA,PHP,HTML5,CSS,XML,MPI,OpenMp,Pthread,CUDA,LLVM,Tiger,OpenAcc
+- Arduino,C,C++,fortran,Android,Python,JAVA,PHP,HTML5,CSS,XML,MPI,OpenMp,Pthread,CUDA,LLVM,Tiger,OpenAcc
   JavaScript(Jquery),Bootstrap,Nodejs,OrgMode, Markdown,LaTeX
   ReactJs,.Net,VHDL,Aseba(Robotique).
 
