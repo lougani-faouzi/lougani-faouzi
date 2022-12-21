@@ -3,11 +3,12 @@
 
 
   🌱 I’m currently  :
--  In Intership C++ Dev at Dassault Systemes
--  learning Master 2 High Performance Computing, Simulation (IHPS) at the University of Paris Saclay-France (2021-2022)
+-  A student on MIASH handicap formation at Paris 8 university 
   
-  🌱 I was a student :
--  Master 1 High Performance Computing, Simulation (HPCS) at the University of Versailles-France (2020-2021)
+  🌱 I was :
+-  Intership C++ Dev at Dassault Systemes and learning 
+-  A student on Master 2 High Performance Computing, Simulation (IHPS) at the University of Paris Saclay-France (2021-2022)
+-  A student on High Performance Computing, Simulation (HPCS) at the University of Versailles-France (2020-2021)
 -  3rd degree in computer science at the University of Perpignan-France (2018-2020)
 -  3rd degree in information systems and software engineering at the University Bouira -Algeria (2015-2018)
 
