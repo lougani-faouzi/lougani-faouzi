@@ -15,9 +15,12 @@
  ⚡ languages ,frameworks 
 - Arduino,C,C++,fortran,Android,Python,JAVA,PHP,HTML5,CSS,XML,MPI,OpenMp,Pthread,CUDA,LLVM,Tiger,OpenAcc
   JavaScript(Jquery),Bootstrap,Nodejs,OrgMode, Markdown,LaTeX
-  ReactJs,.Net,VHDL,Aseba(Robotique).
+  ReactJs,.Net,VHDL,Aseba(Robotique). RasberyPi programming, Arduino, OpenCV
 
  🔭 working on:
+- Avatars and artificial agents 
+- Gesture Classification 
+- Voice recognition with Deep Learning
 - STEP visualisation,ISO standard formats and MultiCAD formats.
 - Profiling,optimisation
 - Benchmarking
@@ -25,7 +28,7 @@
 - Vectorisation, scalability, cache blocking
 
  ## Contact
-  - email: faouzi.lougani@ens.uvsq.fr
+  - email: faouzi.lougani@hotmail.com
   - linkedin: https://www.linkedin.com/in/faouzi-lougani-96819b1a5/
   - website: https://faouzilougani.wixsite.com/monsite
 
