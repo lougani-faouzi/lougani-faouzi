@@ -3,7 +3,7 @@
 
 
   🌱 I’m currently  :
--  A student on MIASH handicap formation at Paris 8 university 
+-  A student on Master 2 MIASH handicap formation at Paris 8 university 
   
   🌱 I was :
 -  Intership C++ Dev at Dassault Systemes and learning 
