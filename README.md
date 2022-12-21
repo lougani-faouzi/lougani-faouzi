@@ -6,7 +6,7 @@
 -  A student on Master 2 MIASH handicap formation at Paris 8 university 
   
   🌱 I was :
--  Intership C++ Dev at Dassault Systemes and learning 
+-  In Intership C++ Dev at Dassault Systemes and learning 
 -  A student on Master 2 High Performance Computing, Simulation (IHPS) at the University of Paris Saclay-France (2021-2022)
 -  A student on High Performance Computing, Simulation (HPCS) at the University of Versailles-France (2020-2021)
 -  3rd degree in computer science at the University of Perpignan-France (2018-2020)
