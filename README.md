@@ -6,7 +6,7 @@
 -  A student on Master 2 MIASH handicap formation at Paris 8 university 
   
   🌱 I was :
--  In Intership C++ Dev at Dassault Systemes and learning 
+-  In Intership C++ Dev at Dassault Systemes 
 -  A student on Master 2 High Performance Computing, Simulation (IHPS) at the University of Paris Saclay-France (2021-2022)
 -  A student on High Performance Computing, Simulation (HPCS) at the University of Versailles-France (2020-2021)
 -  3rd degree in computer science at the University of Perpignan-France (2018-2020)
@@ -15,7 +15,7 @@
  ⚡ languages ,frameworks 
 - Arduino,C,C++,fortran,Android,Python,JAVA,PHP,HTML5,CSS,XML,MPI,OpenMp,Pthread,CUDA,LLVM,Tiger,OpenAcc
   JavaScript(Jquery),Bootstrap,Nodejs,OrgMode, Markdown,LaTeX
-  ReactJs,.Net,VHDL,Aseba(Robotique). RasberyPi programming, Arduino, OpenCV
+  ReactJs,.Net,VHDL,Aseba(Robotique), Arduino, OpenCV, OpenGL
 
  🔭 working on:
 - Avatars and artificial agents 
