@@ -3,12 +3,14 @@
 
 
   🌱 I’m currently  :
--  A student on Master 2 MIASH handicap formation at Paris 8 university 
+- Project engineer at Vinci Energies France. 
   
   🌱 I was :
+-  A student on Master 2 MIASH handicap formation at Paris 8 university 
 -  In Intership C++ Dev at Dassault Systemes 
 -  A student on Master 2 High Performance Computing, Simulation (IHPS) at the University of Paris Saclay-France (2021-2022)
 -  A student on High Performance Computing, Simulation (HPCS) at the University of Versailles-France (2020-2021)
+-  In Intership JAVA Dev at ATOS Dassault Systemes 
 -  3rd degree in computer science at the University of Perpignan-France (2018-2020)
 -  3rd degree in information systems and software engineering at the University Bouira -Algeria (2015-2018)
 
